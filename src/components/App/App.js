@@ -5,7 +5,7 @@ import './App.css'
 import PostStatusFilter from "../PostStatusFilter";
 import SearchPanel from "../SearchPanel";
 import React from "react";
-
+/// Analog loyiha.
 export default class App extends React.Component{
     constructor(props){
         super(props);
